@@ -1,5 +1,6 @@
 # Shift-Register
 ## A simple project, just to pratice and increase my habilities on Digital VLSI Systems
+### A parametrizable shift-register to apply in some circuits.
 
 The link of EDA Playground project is here:
 https://www.edaplayground.com/x/j2UP
